@@ -17,7 +17,7 @@ export default function InstructionsComponent() {
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#components"}
+					href={"https://fabrikabr.org"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
@@ -59,18 +59,18 @@ export default function InstructionsComponent() {
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://github.com/FabrikaBr"
 							target={"_blank"}
 						>
-							Leave a star on Github
+							Siga-nos no Github
 						</a>
 					</div>
 					<div>
 						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://twitter.com/BrFabrika"
 							target={"_blank"}
 						>
-							Follow us on Twitter
+							Siga-nos no Twitter
 						</a>
 					</div>
 				</div>
