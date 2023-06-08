@@ -35,7 +35,7 @@ export default function InstructionsComponent() {
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://fabrikabr.org"}
+					href={"https://bafybeihlsowxk5dntgpcxrrgelm45mnszapixzlzofoqnl5amnpshbytd4.ipfs.dweb.link/"}
 				>
 					<div className={styles.button}>
 						<img
