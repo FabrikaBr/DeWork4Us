@@ -21,21 +21,21 @@ export default function InstructionsComponent() {
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>Adicionar Contrato</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
+					href={"https://fabrikabr.org"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>Pesquisar Contrato</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
+					href={"https://fabrikabr.org"}
 				>
 					<div className={styles.button}>
 						<img
@@ -43,7 +43,7 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Docs</p>
+						<p>Pagar Contrato</p>
 					</div>
 				</a>
 			</div>
@@ -53,7 +53,7 @@ export default function InstructionsComponent() {
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
 						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
-						alt="Alchemy Supercharged"
+						alt="DeWork4Us by Fabrikabr.io"
 					/>
 				</a>
 				<div className={styles.icons_container}>
