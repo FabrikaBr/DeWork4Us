@@ -52,7 +52,7 @@ export default function InstructionsComponent() {
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
+						src="https://github.com/FabrikaBr/DeWork4Us/blob/main/public/Captura%20de%20tela%202023-07-01%20172838.png"
 						alt="DeWork4Us by Fabrikabr.io"
 					/>
 				</a>
